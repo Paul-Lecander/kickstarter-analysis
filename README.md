@@ -8,8 +8,10 @@
 
 ## Analysis and Challenges
 *This project analyzed outcomes of a kickstarter based on two main factors:\
-	1. Launch Date of the kickstarter ![Outcomes_Based_On_Launch_Date](kickstarter-analysis/Theater_Outcomes_vs_Launch.png)\
-	2. Financial goals of the kickstarter ![Outcomes_Based_On_Goals](kickstarter-analysis/Outcomes_vs_Goals.png)
+	1. Launch Date of the kickstarter\
+ ![Outcomes_Based_On_Launch_Date](https://github.com/Paul-Lecander/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)\
+	2. Financial goals of the kickstarter\
+ ![Outcomes_Based_On_Goals](https://github.com/Paul-Lecander/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 *Launch date is the date at which the Kickstarter campaign started, and the financial goals was the amount of money the Kickstarter hoped to raise by the end of the campaign.
 
